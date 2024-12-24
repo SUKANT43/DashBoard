@@ -23,15 +23,5 @@ ReactJS, [MUI](https://mui.com/), [Data Grid](https://mui.com/x/react-data-grid/
 
 ## Demo
 
-| Page| Dark | Light |
-| --- | ---- | ----- |
-| Dashboard | ![image]![Screenshot 2024-12-24 191132](https://github.com/user-attachments/assets/d907fd82-2ac0-4e32-8ebe-0dada4298f88)
- | ![image]![Screenshot 2024-12-24 191140](https://github.com/user-attachments/assets/71be77b7-a095-41c0-8817-028fac7b7d3f)
- | 
-| Contacts | ![image](https://user-images.githubusercontent.com/54253848/235721410-f43a1775-3006-4f4c-9e0f-7ad0f6ca0565.png) | ![image](https://user-images.githubusercontent.com/54253848/235721502-0199530b-eec2-49ca-8b3e-ee4159e50433.png) | 
-| Calendar | ![image](https://user-images.githubusercontent.com/54253848/235721982-94b5dc81-368e-430c-b7a1-5af0cb844408.png) | ![image](https://user-images.githubusercontent.com/54253848/235721786-8d9e1356-4d7a-4138-829f-8d940f60791e.png) | 
-| Bar Chart | ![image](https://user-images.githubusercontent.com/54253848/235722289-1df98bb2-dcf3-463f-8a3d-5c64ea10b8f1.png) | ![image](https://user-images.githubusercontent.com/54253848/235722353-f5a1c914-7949-4a39-afb4-e4822c0d2bb8.png) | 
-| Pie Chart | ![image](https://user-images.githubusercontent.com/54253848/235722456-b269e350-1a0c-4fc4-8e5c-a1c8cca1affe.png) | ![image](https://user-images.githubusercontent.com/54253848/235722525-a27cb207-3863-49c9-8f6c-3ae0b51efd3b.png) |
-| Geography Chart | ![image](https://user-images.githubusercontent.com/54253848/235722663-424cb68d-aac0-4f01-a778-53c8a4444a5a.png) | ![image](https://user-images.githubusercontent.com/54253848/235722714-f531de79-6725-4397-9867-f1c4b5e20447.png) | 
-| Line Chart | ![image](https://user-images.githubusercontent.com/54253848/235722957-f1f864d5-a6b8-4f23-b80e-c8c450b1b409.png) | ![image](https://user-images.githubusercontent.com/54253848/235722999-fd5c6ad7-51e4-4af2-a6e4-56bf4e78332f.png) |
-| & more... | | |
+![Screenshot 2024-12-24 183709](https://github.com/user-attachments/assets/e9021db5-bf4d-47b6-8d9e-cb991e704416)
+
