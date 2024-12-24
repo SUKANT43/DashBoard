@@ -1,5 +1,6 @@
 # ReactDashX - React Admin Dashboard
 **Demo:https://reactdashboard5.netlify.app**
+<br/>
 A complete dashboard containing admin panel & pages like data table & various charts. It has dark/light theme with proper color palette.
 
 ## Tech Stack
