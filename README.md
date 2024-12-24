@@ -25,7 +25,9 @@ ReactJS, [MUI](https://mui.com/), [Data Grid](https://mui.com/x/react-data-grid/
 
 | Page| Dark | Light |
 | --- | ---- | ----- |
-| Dashboard | ![image](https://user-images.githubusercontent.com/54253848/235673258-0f26cfb2-f05a-4eec-93a2-00d7f670511a.png) | ![image](https://user-images.githubusercontent.com/54253848/235673379-7de8cdc1-9e42-4979-9c4e-d2fa5e34647f.png) | 
+| Dashboard | ![image]![Screenshot 2024-12-24 191132](https://github.com/user-attachments/assets/d907fd82-2ac0-4e32-8ebe-0dada4298f88)
+ | ![image]![Screenshot 2024-12-24 191140](https://github.com/user-attachments/assets/71be77b7-a095-41c0-8817-028fac7b7d3f)
+ | 
 | Contacts | ![image](https://user-images.githubusercontent.com/54253848/235721410-f43a1775-3006-4f4c-9e0f-7ad0f6ca0565.png) | ![image](https://user-images.githubusercontent.com/54253848/235721502-0199530b-eec2-49ca-8b3e-ee4159e50433.png) | 
 | Calendar | ![image](https://user-images.githubusercontent.com/54253848/235721982-94b5dc81-368e-430c-b7a1-5af0cb844408.png) | ![image](https://user-images.githubusercontent.com/54253848/235721786-8d9e1356-4d7a-4138-829f-8d940f60791e.png) | 
 | Bar Chart | ![image](https://user-images.githubusercontent.com/54253848/235722289-1df98bb2-dcf3-463f-8a3d-5c64ea10b8f1.png) | ![image](https://user-images.githubusercontent.com/54253848/235722353-f5a1c914-7949-4a39-afb4-e4822c0d2bb8.png) | 
